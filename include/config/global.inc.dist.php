@@ -90,10 +90,10 @@ $config['swiftmailer']['smtp']['throttle'] = 100;
  *  Shown to users in the 'Getting Started' section
  *   https://github.com/MPOS/php-mpos/wiki/Config-Setup#wiki-getting-started
  **/
-$config['gettingstarted']['coinname'] = 'Litecoin';
+$config['gettingstarted']['coinname'] = 'hppcoin';
 $config['gettingstarted']['coinurl'] = 'http://www.litecoin.org';
 $config['gettingstarted']['stratumurl'] = '';
-$config['gettingstarted']['stratumport'] = '3333';
+$config['gettingstarted']['stratumport'] = '7117';
 
 /**
  * Ticker API
